@@ -1,4 +1,4 @@
-# QA-Automation-Project
+# QA-Automation
 
 ## Overview
 This project is a practice environment for automation using Selenium in Python, **QA-Automation**, we worked on a class project where we learned automation and Python. The objective was to apply our knowledge of programming and automation techniques to create a practical solution that demonstrates our skills and understanding of the subject.
